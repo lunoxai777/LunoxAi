@@ -4,7 +4,7 @@ import { useState } from "react";
 
 const Portal = () => {
   const navigate = useNavigate();
-  const contractAddress = "1234"; // 🔹 Replace with your actual address
+  const contractAddress = "hjgjg"; // 🔹 Replace with your actual address
   const [copied, setCopied] = useState(false);
 
   const handleEnter = () => {
